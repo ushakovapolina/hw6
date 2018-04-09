@@ -4,4 +4,4 @@
 [3](https://github.com/ushakovapolina/hw6/blob/master/3%20пункт%20цг.png)
 [4](https://github.com/ushakovapolina/hw6/blob/master/цгнов.jpg)
 [5](https://github.com/ushakovapolina/hw6/blob/master/цгггноввв111.jpg)
-###часть 1. пункт 3
+### часть 1. пункт 3
